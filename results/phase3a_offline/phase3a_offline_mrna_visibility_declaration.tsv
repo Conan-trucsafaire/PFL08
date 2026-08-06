@@ -1,0 +1,230 @@
+cycle_id	edge_idx	source_token	target_token	visibility	target_class	review_flag
+39980052#0	0	CDCA3	TRIM28 protective activity toward MYC	T_uncertain	multi_symbol_unverified	True
+39980052#0	1	TRIM28 protective activity toward MYC	MYC protein stability	T_invisible	single_symbol_unverified	True
+39980052#0	2	MYC protein stability	CDCA3	T_uncertain	single_symbol_unverified	True
+37258572#0	0	YTHDC1 activity	SLC2A3/GLUT3 abundance	T_uncertain	multi_symbol_unverified	True
+37258572#0	1	SLC2A3/GLUT3 abundance	RNF183 abundance	T_uncertain	single_symbol_unverified	True
+37258572#0	2	RNF183 abundance	YTHDC1 protein stability	T_invisible	single_symbol_unverified	True
+36922898#0	0	macrophage IL-1β	tumour-cell FN1/FN-EDA	T_uncertain	cell_type_prefixed	True
+36922898#0	1	tumour-cell FN1/FN-EDA	macrophage NF-κB/STAT3	T_uncertain	cell_type_prefixed	True
+36922898#0	2	macrophage NF-κB/STAT3	IL-1β	T_uncertain	single_symbol_unverified	True
+34976998#0	0	HCG18	miR-103a-3p activity	T_uncertain	noncoding_rna	True
+34976998#0	1	miR-103a-3p activity	UBE2O	T_uncertain	single_symbol_unverified	True
+34976998#0	2	UBE2O	PRKAA2/AMPK-alpha2 activity	T_uncertain	multi_symbol_unverified	True
+34976998#0	3	PRKAA2/AMPK-alpha2 activity	mTORC1 activity	T_uncertain	complex_or_pathway	True
+34976998#0	4	mTORC1 activity	HIF1A activity	T_uncertain	single_symbol_unverified	True
+34976998#0	5	HIF1A activity	HCG18	T_uncertain	noncoding_rna	True
+39586165#0	0	ESR2/ER-beta activity	circATP2B1 abundance	T_uncertain	noncoding_rna	True
+39586165#0	1	circATP2B1 abundance	miR-204-3p stability/activity	T_uncertain	noncoding_rna	True
+39586165#0	2	miR-204-3p stability/activity	TWIST1 abundance	T_uncertain	single_symbol_unverified	True
+39586165#0	3	TWIST1 abundance	ESR2 transcription	T_visible	single_symbol_unverified	True
+37927783#0	0	TTC13	JAK2/STAT3 activity	T_uncertain	complex_or_pathway	True
+37927783#0	1	JAK2/STAT3 activity	TTC13	T_uncertain	single_symbol_unverified	True
+40817404#0	0	ARHGAP4	MYH9 phase separation	T_invisible	single_symbol_unverified	True
+40817404#0	1	MYH9 phase separation	GSK3B stability	T_uncertain	single_symbol_unverified	True
+40817404#0	2	GSK3B stability	CTNNB1/beta-catenin activity	T_uncertain	single_symbol_unverified	True
+40817404#0	3	CTNNB1/beta-catenin activity	JUN/c-Jun	T_uncertain	single_symbol_unverified	True
+40817404#0	4	JUN/c-Jun	ARHGAP4	T_uncertain	single_symbol_unverified	True
+40817404#1	0	MYH9 phase separation	GSK3B stability	T_uncertain	single_symbol_unverified	True
+40817404#1	1	GSK3B stability	CTNNB1/beta-catenin activity	T_uncertain	single_symbol_unverified	True
+40817404#1	2	CTNNB1/beta-catenin activity	JUN/c-Jun	T_uncertain	single_symbol_unverified	True
+40817404#1	3	JUN/c-Jun	MYH9	T_uncertain	single_symbol_unverified	True
+41286950#0	0	IGF2BP3 activity	IL6ST mRNA stability/abundance	T_visible	single_symbol_unverified	True
+41286950#0	1	IL6ST mRNA stability/abundance	STAT3 activity	T_uncertain	single_symbol_unverified	True
+41286950#0	2	STAT3 activity	IGF2BP3	T_uncertain	single_symbol_unverified	True
+35670012#0	0	DPEP1 protein	ASCL2 protein stability/activity	T_invisible	single_symbol_unverified	True
+35670012#0	1	ASCL2 protein stability/activity	DPEP1 transcription/abundance	T_visible	single_symbol_unverified	True
+35739524#0	0	HIF1A activity	RRAGB transcription/abundance	T_visible	single_symbol_unverified	True
+35739524#0	1	RRAGB transcription/abundance	mTORC1 activity	T_uncertain	complex_or_pathway	True
+35739524#0	2	mTORC1 activity	HIF1A translation/protein abundance	T_invisible	single_symbol_unverified	True
+33658394#0	0	miR-452-5p	PKN2	T_uncertain	single_symbol_unverified	True
+33658394#0	1	PKN2	MAPK/ERK activity	T_uncertain	complex_or_pathway	True
+33658394#0	2	MAPK/ERK activity	JUN/c-Jun activity	T_uncertain	single_symbol_unverified	True
+33658394#0	3	JUN/c-Jun activity	miR-452-5p	T_uncertain	noncoding_rna	True
+33658394#1	0	miR-452-5p	DUSP6	T_uncertain	single_symbol_unverified	True
+33658394#1	1	DUSP6	MAPK/ERK activity	T_uncertain	complex_or_pathway	True
+33658394#1	2	MAPK/ERK activity	JUN/c-Jun activity	T_uncertain	single_symbol_unverified	True
+33658394#1	3	JUN/c-Jun activity	miR-452-5p	T_uncertain	noncoding_rna	True
+34782005#0	0	SNHG17	miR-339-5p	T_uncertain	noncoding_rna	True
+34782005#0	1	miR-339-5p	FOSL2	T_uncertain	single_symbol_unverified	True
+34782005#0	2	FOSL2	SNHG17	T_uncertain	noncoding_rna	True
+38087322#0	0	m6A-circ-YAP translation	YAP-220aa	T_uncertain	single_symbol_unverified	True
+38087322#0	1	YAP-220aa	LATS1 access to YAP1	T_invisible	multi_symbol_unverified	True
+38087322#0	2	LATS1 access to YAP1	YAP1 nuclear/transcriptional activity	T_uncertain	single_symbol_unverified	True
+38087322#0	3	YAP1 nuclear/transcriptional activity	circ-YAP transcription	T_visible	noncoding_rna	True
+34145399#0	0	MIR17HG	miR-138-5p	T_uncertain	noncoding_rna	True
+34145399#0	1	miR-138-5p	HK1	T_uncertain	single_symbol_unverified	True
+34145399#0	2	HK1	glycolytic lactate	T_uncertain	metabolite_or_process	True
+34145399#0	3	glycolytic lactate	MAPK14/p38 activity	T_uncertain	complex_or_pathway	True
+34145399#0	4	MAPK14/p38 activity	ELK1 activity	T_uncertain	single_symbol_unverified	True
+34145399#0	5	ELK1 activity	MIR17HG	T_uncertain	noncoding_rna	True
+39023169#0	0	TARDBP/TDP-43 transcriptional activity	TP63 transcription	T_visible	single_symbol_unverified	True
+39023169#0	1	TP63 transcription	TP63 transcriptional activity	T_visible	single_symbol_unverified	True
+39023169#0	2	TP63 transcriptional activity	TARDBP transcription	T_visible	single_symbol_unverified	True
+39023169#1	0	TARDBP/TDP-43 RNA-binding activity	TP63 mRNA stability	T_visible	single_symbol_unverified	True
+39023169#1	1	TP63 mRNA stability	TP63 transcriptional activity	T_visible	single_symbol_unverified	True
+39023169#1	2	TP63 transcriptional activity	TARDBP transcription	T_visible	single_symbol_unverified	True
+36008860#0	0	SMAD3 nuclear activity	THBS1/TSP1	T_uncertain	multi_symbol_unverified	True
+36008860#0	1	THBS1/TSP1	active TGFB1 signaling	T_uncertain	single_symbol_unverified	True
+36008860#0	2	active TGFB1 signaling	SMAD3 phosphorylation/nuclear activity	T_invisible	single_symbol_unverified	True
+40454092#0	0	AHR transcriptional activity	HEGBC transcription	T_visible	noncoding_rna	True
+40454092#0	1	HEGBC transcription	AHR transcription/activity	T_visible	single_symbol_unverified	True
+42127732#0	0	CDH11	TGF-beta pathway activity	T_uncertain	complex_or_pathway	True
+42127732#0	1	TGF-beta pathway activity	SNAI2/Snail2 nuclear activity	T_invisible	single_symbol_unverified	True
+42127732#0	2	SNAI2/Snail2 nuclear activity	CDH11 transcription	T_visible	single_symbol_unverified	True
+42330341#0	0	tumour CXCL8	neuronal CXCR2	T_uncertain	cell_type_prefixed	True
+42330341#0	1	neuronal CXCR2	neuronal MIF	T_uncertain	cell_type_prefixed	True
+42330341#0	2	neuronal MIF	tumour VCAM1/ERK/STAT3	T_uncertain	cell_type_prefixed	True
+42330341#0	3	tumour VCAM1/ERK/STAT3	tumour CXCL8	T_uncertain	cell_type_prefixed	True
+36632455#0	0	tumor-cell-secreted BGN	mesothelial TLR2/TLR4/NF-kappaB activity	T_uncertain	cell_type_prefixed	True
+36632455#0	1	mesothelial TLR2/TLR4/NF-kappaB activity	CAF-like-cell FAP secretion	T_uncertain	cell_type_prefixed	True
+36632455#0	2	CAF-like-cell FAP secretion	tumor-cell STAT3 activity	T_uncertain	cell_type_prefixed	True
+36632455#0	3	tumor-cell STAT3 activity	tumor-cell BGN transcription	T_visible	cell_type_prefixed	True
+35289315#0	0	GATA2 activity	secreted CGA	T_uncertain	single_symbol_unverified	True
+35289315#0	1	secreted CGA	EGFR activity	T_uncertain	single_symbol_unverified	True
+35289315#0	2	EGFR activity	GATA2 expression/phosphorylation	T_uncertain	single_symbol_unverified	True
+33526767#0	0	secreted WNT7B	FTO activity	T_uncertain	single_symbol_unverified	True
+33526767#0	1	FTO activity	TCF7L2 abundance/activity	T_uncertain	single_symbol_unverified	True
+33526767#0	2	TCF7L2 abundance/activity	WNT7B	T_uncertain	single_symbol_unverified	True
+33526767#1	0	secreted WNT7B	CTNNB1/beta-catenin activity	T_uncertain	single_symbol_unverified	True
+33526767#1	1	CTNNB1/beta-catenin activity	TCF7L2/beta-catenin activity	T_uncertain	complex_or_pathway	True
+33526767#1	2	TCF7L2/beta-catenin activity	WNT7B	T_uncertain	single_symbol_unverified	True
+33731207#0	0	circFAM73A	miR-490-3p	T_uncertain	noncoding_rna	True
+33731207#0	1	miR-490-3p	HMGA2	T_uncertain	single_symbol_unverified	True
+33731207#0	2	HMGA2	E2F1 activity	T_uncertain	single_symbol_unverified	True
+33731207#0	3	E2F1 activity	circFAM73A	T_uncertain	noncoding_rna	True
+36860162#0	0	GATA4	CDX2	T_uncertain	single_symbol_unverified	True
+36860162#0	1	CDX2	GATA4	T_uncertain	single_symbol_unverified	True
+41458623#0	0	ZFHX4 abundance/activity	SOX2 abundance/activity	T_uncertain	single_symbol_unverified	True
+41458623#0	1	SOX2 abundance/activity	ZFHX4 abundance/activity	T_uncertain	single_symbol_unverified	True
+38982480#0	0	PFKP protein-interaction activity	ERK2/MAPK-ERK activity	T_uncertain	complex_or_pathway	True
+38982480#0	1	ERK2/MAPK-ERK activity	MYC Ser62 phosphorylation/protein stability	T_invisible	single_symbol_unverified	True
+38982480#0	2	MYC Ser62 phosphorylation/protein stability	PFKP transcription	T_visible	single_symbol_unverified	True
+42338478#0	0	STRAP	DKK1-LRP6 inhibition	T_uncertain	multi_symbol_unverified	True
+42338478#0	1	DKK1-LRP6 inhibition	β-catenin/TCF4	T_uncertain	single_symbol_unverified	True
+42338478#0	2	β-catenin/TCF4	STRAP	T_uncertain	single_symbol_unverified	True
+39890782#0	0	glycolysis	lactate	T_uncertain	metabolite_or_process	True
+39890782#0	1	lactate	H3K14 lactylation	T_invisible	single_symbol_unverified	True
+39890782#0	2	H3K14 lactylation	NEDD4	T_uncertain	single_symbol_unverified	True
+39890782#0	3	NEDD4	PTEN	T_uncertain	single_symbol_unverified	True
+39890782#0	4	PTEN	glycolysis	T_uncertain	metabolite_or_process	True
+40155591#0	0	CSF3R-AS	CSF3R mRNA stability	T_visible	single_symbol_unverified	True
+40155591#0	1	CSF3R mRNA stability	JAK2/STAT3 activity	T_uncertain	complex_or_pathway	True
+40155591#0	2	JAK2/STAT3 activity	CSF3R-AS	T_uncertain	noncoding_rna	True
+38825640#0	0	RGS19	MYH9 protein stability	T_invisible	single_symbol_unverified	True
+38825640#0	1	MYH9 protein stability	CTNNB1/beta-catenin activity	T_uncertain	single_symbol_unverified	True
+38825640#0	2	CTNNB1/beta-catenin activity	MYC	T_uncertain	single_symbol_unverified	True
+38825640#0	3	MYC	RGS19	T_uncertain	single_symbol_unverified	True
+37137887#0	0	KDM5B promoter activity	IGF2BP1 transcription/abundance	T_visible	single_symbol_unverified	True
+37137887#0	1	IGF2BP1 transcription/abundance	KDM5B mRNA stability/protein abundance	T_uncertain	single_symbol_unverified	True
+37231451#0	0	METTL3 methyltransferase activity	STAT3 translation/protein	T_invisible	single_symbol_unverified	True
+37231451#0	1	STAT3 translation/protein	WTAP transcription/protein	T_visible	single_symbol_unverified	True
+37231451#0	2	WTAP transcription/protein	METTL3 nuclear localization/methyltransferase activity	T_invisible	single_symbol_unverified	True
+37596320#0	0	pentose phosphate pathway activity	NADPH-supported cholesterol synthesis	T_uncertain	single_symbol_unverified	True
+37596320#0	1	NADPH-supported cholesterol synthesis	NADPH depletion-driven pentose phosphate pathway activity	T_uncertain	single_symbol_unverified	True
+38051779#0	0	ZDHHC7/DHHC7 palmitoyltransferase activity	STAT3 Cys108 palmitoylation/transcriptional activity	T_uncertain	single_symbol_unverified	True
+38051779#0	1	STAT3 Cys108 palmitoylation/transcriptional activity	HIF1A transcription/protein activity	T_visible	single_symbol_unverified	True
+38051779#0	2	HIF1A transcription/protein activity	ZDHHC7 transcription	T_visible	single_symbol_unverified	True
+41044601#0	0	RPL22L1	MYC protein stability	T_invisible	single_symbol_unverified	True
+41044601#0	1	MYC protein stability	RPL22L1	T_uncertain	single_symbol_unverified	True
+41044601#1	0	RPL22L1	MAPK/ERK activity	T_uncertain	complex_or_pathway	True
+41044601#1	1	MAPK/ERK activity	MYC protein	T_uncertain	single_symbol_unverified	True
+41044601#1	2	MYC protein	RPL22L1	T_uncertain	single_symbol_unverified	True
+33734616#0	0	MND1	KLF6 promoter occupancy/repressor activity	T_invisible	single_symbol_unverified	True
+33734616#0	1	KLF6 promoter occupancy/repressor activity	E2F1	T_uncertain	single_symbol_unverified	True
+33734616#0	2	E2F1	MND1	T_uncertain	single_symbol_unverified	True
+38778059#0	0	macrophage ST2L/IL1RL1 receptor abundance-signaling state	NF-kappaB activity	T_uncertain	complex_or_pathway	True
+38778059#0	1	NF-kappaB activity	ST2L/IL1RL1 transcription and receptor state	T_uncertain	multi_symbol_unverified	True
+34163000#0	0	AKT activity	TSPYL5-pT120 stability/nuclear activity	T_invisible	single_symbol_unverified	True
+34163000#0	1	TSPYL5-pT120 stability/nuclear activity	PTEN	T_uncertain	single_symbol_unverified	True
+34163000#0	2	PTEN	AKT activity	T_uncertain	complex_or_pathway	True
+35173544#0	0	TBL1X	TCF7L2/TCF4 promoter-complex activity	T_uncertain	multi_symbol_unverified	True
+35173544#0	1	TCF7L2/TCF4 promoter-complex activity	FLOT2	T_uncertain	single_symbol_unverified	True
+35173544#0	2	FLOT2	MYC	T_uncertain	single_symbol_unverified	True
+35173544#0	3	MYC	TBL1X	T_uncertain	single_symbol_unverified	True
+35227262#0	0	circCAMSAP1	SERPINH1	T_uncertain	single_symbol_unverified	True
+35227262#0	1	SERPINH1	MYC activity	T_uncertain	single_symbol_unverified	True
+35227262#0	2	MYC activity	circCAMSAP1	T_uncertain	noncoding_rna	True
+35373703#0	0	LINC01605	miR-942-5p activity	T_uncertain	noncoding_rna	True
+35373703#0	1	miR-942-5p activity	IKBKB/IKK-beta activity	T_uncertain	complex_or_pathway	True
+35373703#0	2	IKBKB/IKK-beta activity	RELA/p65 activity	T_uncertain	single_symbol_unverified	True
+35373703#0	3	RELA/p65 activity	LINC01605	T_uncertain	noncoding_rna	True
+35373703#1	0	LINC01605	IGF2BP2 recruitment	T_invisible	single_symbol_unverified	True
+35373703#1	1	IGF2BP2 recruitment	USP3 mRNA stability	T_visible	single_symbol_unverified	True
+35373703#1	2	USP3 mRNA stability	IKBKB protein stability/activity	T_invisible	single_symbol_unverified	True
+35373703#1	3	IKBKB protein stability/activity	RELA/p65 activity	T_uncertain	single_symbol_unverified	True
+35373703#1	4	RELA/p65 activity	LINC01605	T_uncertain	noncoding_rna	True
+36199071#0	0	circPVT1	BTRC E3 activity toward MYC	T_invisible	multi_symbol_unverified	True
+36199071#0	1	BTRC E3 activity toward MYC	MYC protein stability	T_invisible	single_symbol_unverified	True
+36199071#0	2	MYC protein stability	circPVT1	T_uncertain	noncoding_rna	True
+36199071#1	0	circPVT1	BTRC E3 activity toward MYC	T_invisible	multi_symbol_unverified	True
+36199071#1	1	BTRC E3 activity toward MYC	MYC	T_uncertain	single_symbol_unverified	True
+36199071#1	2	MYC	SRSF1	T_uncertain	single_symbol_unverified	True
+36199071#1	3	SRSF1	circPVT1	T_uncertain	noncoding_rna	True
+37774794#0	0	MYC	METTL3	T_uncertain	single_symbol_unverified	True
+37774794#0	1	METTL3	LINC01006	T_uncertain	noncoding_rna	True
+37774794#0	2	LINC01006	miR-34a activity	T_uncertain	noncoding_rna	True
+37774794#0	3	miR-34a activity	MYC	T_uncertain	single_symbol_unverified	True
+37774794#1	0	MYC	METTL3	T_uncertain	single_symbol_unverified	True
+37774794#1	1	METTL3	LINC01006	T_uncertain	noncoding_rna	True
+37774794#1	2	LINC01006	miR-34b activity	T_uncertain	noncoding_rna	True
+37774794#1	3	miR-34b activity	MYC	T_uncertain	single_symbol_unverified	True
+37774794#2	0	MYC	METTL3	T_uncertain	single_symbol_unverified	True
+37774794#2	1	METTL3	LINC01006	T_uncertain	noncoding_rna	True
+37774794#2	2	LINC01006	miR-34c activity	T_uncertain	noncoding_rna	True
+37774794#2	3	miR-34c activity	MYC	T_uncertain	single_symbol_unverified	True
+37774794#3	0	MYC	METTL3	T_uncertain	single_symbol_unverified	True
+37774794#3	1	METTL3	LINC01006	T_uncertain	noncoding_rna	True
+37774794#3	2	LINC01006	miR-2682 activity	T_uncertain	noncoding_rna	True
+37774794#3	3	miR-2682 activity	MYC	T_uncertain	single_symbol_unverified	True
+37008055#0	0	HIF1A promoter activity	circ_0000566 biogenesis/abundance	T_visible	noncoding_rna	True
+37008055#0	1	circ_0000566 biogenesis/abundance	HIF1A protein stability/activity	T_invisible	single_symbol_unverified	True
+41029721#0	0	tumor-cell-secreted SAA1	MDSC TLR2/TLR4 activity	T_uncertain	cell_type_prefixed	True
+41029721#0	1	MDSC TLR2/TLR4 activity	MDSC IL1B secretion	T_uncertain	cell_type_prefixed	True
+41029721#0	2	MDSC IL1B secretion	tumor-cell IL1R/NF-kappaB activity	T_uncertain	cell_type_prefixed	True
+41029721#0	3	tumor-cell IL1R/NF-kappaB activity	tumor-cell SAA1 transcription/secretion	T_visible	cell_type_prefixed	True
+35342355#0	0	CASC15	miR-23b-3p activity	T_uncertain	noncoding_rna	True
+35342355#0	1	miR-23b-3p activity	SMAD3	T_uncertain	single_symbol_unverified	True
+35342355#0	2	SMAD3	CASC15	T_uncertain	noncoding_rna	True
+35342355#1	0	CASC15	miR-24-3p activity	T_uncertain	noncoding_rna	True
+35342355#1	1	miR-24-3p activity	HNF1B	T_uncertain	single_symbol_unverified	True
+35342355#1	2	HNF1B	SMAD3	T_uncertain	single_symbol_unverified	True
+35342355#1	3	SMAD3	CASC15	T_uncertain	noncoding_rna	True
+41963301#0	0	FOXM1 transcriptional activity	SMAD4 transcription	T_visible	single_symbol_unverified	True
+41963301#0	1	SMAD4 transcription	SMAD4 transcriptional activity	T_visible	single_symbol_unverified	True
+41963301#0	2	SMAD4 transcriptional activity	FOXM1 transcription	T_visible	single_symbol_unverified	True
+41963301#1	0	FOXM1 protein interaction	SMAD4 protein stability	T_invisible	single_symbol_unverified	True
+41963301#1	1	SMAD4 protein stability	SMAD4 transcriptional activity	T_visible	single_symbol_unverified	True
+41963301#1	2	SMAD4 transcriptional activity	FOXM1 transcription	T_visible	single_symbol_unverified	True
+37149664#0	0	ALKBH5 activity	HDAC4 mRNA/protein stability	T_uncertain	single_symbol_unverified	True
+37149664#0	1	HDAC4 mRNA/protein stability	HIF1A protein stability/activity	T_invisible	single_symbol_unverified	True
+37149664#0	2	HIF1A protein stability/activity	ALKBH5	T_uncertain	single_symbol_unverified	True
+35534983#0	0	TPT1-AS1	miR-30a-5p activity	T_uncertain	noncoding_rna	True
+35534983#0	1	miR-30a-5p activity	ITGB3	T_uncertain	single_symbol_unverified	True
+35534983#0	2	ITGB3	STAT3 activity	T_uncertain	single_symbol_unverified	True
+35534983#0	3	STAT3 activity	TPT1-AS1	T_uncertain	noncoding_rna	True
+34245303#0	0	PVT1	HIF1A transcription	T_visible	single_symbol_unverified	True
+34245303#0	1	HIF1A transcription	PVT1 transcription	T_visible	noncoding_rna	True
+34245303#1	0	PVT1	HIF1A transcription	T_visible	single_symbol_unverified	True
+34245303#1	1	HIF1A transcription	PVT1 RNA stability	T_uncertain	noncoding_rna	True
+34245303#2	0	PVT1	HIF1A protein stability	T_invisible	single_symbol_unverified	True
+34245303#2	1	HIF1A protein stability	PVT1 transcription	T_visible	noncoding_rna	True
+34245303#3	0	PVT1	HIF1A protein stability	T_invisible	single_symbol_unverified	True
+34245303#3	1	HIF1A protein stability	PVT1 RNA stability	T_uncertain	noncoding_rna	True
+33648560#0	0	HMGA1	TRIP13	T_uncertain	single_symbol_unverified	True
+33648560#0	1	TRIP13	FBXW7	T_uncertain	single_symbol_unverified	True
+33648560#0	2	FBXW7	MYC	T_uncertain	single_symbol_unverified	True
+33648560#0	3	MYC	HMGA1	T_uncertain	single_symbol_unverified	True
+33648560#1	0	TRIP13	FBXW7	T_uncertain	single_symbol_unverified	True
+33648560#1	1	FBXW7	MYC	T_uncertain	single_symbol_unverified	True
+33648560#1	2	MYC	TRIP13	T_uncertain	single_symbol_unverified	True
+35711895#0	0	LUCAT1	ELAVL1 recruitment/RNA-binding activity	T_invisible	multi_symbol_unverified	True
+35711895#0	1	ELAVL1 recruitment/RNA-binding activity	LIN28B mRNA stability	T_visible	single_symbol_unverified	True
+35711895#0	2	LIN28B mRNA stability	SOX2 mRNA stability/activity	T_visible	single_symbol_unverified	True
+35711895#0	3	SOX2 mRNA stability/activity	LUCAT1 transcription	T_visible	noncoding_rna	True
+36566349#0	0	m6A-RN7SK secondary-structure activity	IGF2BP3 mRNA stability/abundance	T_visible	single_symbol_unverified	True
+36566349#0	1	IGF2BP3 mRNA stability/abundance	IGF2BP3 m6A-reader activity	T_uncertain	single_symbol_unverified	True
+36566349#0	2	IGF2BP3 m6A-reader activity	RN7SK secondary-structure activity	T_invisible	noncoding_rna	True
+36566349#1	0	m6A-RN7SK secondary-structure activity	YTHDC2 mRNA stability/abundance	T_visible	single_symbol_unverified	True
+36566349#1	1	YTHDC2 mRNA stability/abundance	YTHDC2 m6A-reader activity	T_uncertain	single_symbol_unverified	True
+36566349#1	2	YTHDC2 m6A-reader activity	RN7SK secondary-structure activity	T_invisible	noncoding_rna	True

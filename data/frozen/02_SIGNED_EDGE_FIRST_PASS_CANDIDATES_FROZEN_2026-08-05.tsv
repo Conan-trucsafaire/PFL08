@@ -1,0 +1,54 @@
+pmid	status	second_review_pending	cancer	compartment	circuit
+39980052	FT1-retained	TRUE	Bladder cancer	Cell-intrinsic	CDCA3 -> TRIM28 protective activity toward MYC -> MYC protein stability -> CDCA3
+37258572	FT1-retained	TRUE	Bladder cancer	Cell-intrinsic	YTHDC1 activity -| SLC2A3/GLUT3 abundance -> RNF183 abundance -| YTHDC1 protein stability
+36922898	Q2A-retained	TRUE	Breast cancer	Intercellular/TME	macrophage IL-1β → tumour-cell FN1/FN-EDA → macrophage NF-κB/STAT3 → IL-1β
+34976998	FT1-retained	TRUE	Breast cancer	Cell-intrinsic	HCG18 -| miR-103a-3p activity -| UBE2O -| PRKAA2/AMPK-alpha2 activity -| mTORC1 activity -> HIF1A activity -> HCG18
+39586165	FT1-retained	TRUE	Clear-cell renal cell carcinoma	Cell-intrinsic	ESR2/ER-beta activity -| circATP2B1 abundance -> miR-204-3p stability/activity -| TWIST1 abundance -> ESR2 transcription
+37927783	FT1-retained	TRUE	Clear-cell renal cell carcinoma	Cell-intrinsic	TTC13 -> JAK2/STAT3 activity -> TTC13
+40817404	FT1-retained	TRUE	Colorectal cancer	Cell-intrinsic	ARHGAP4 -> MYH9 phase separation -| GSK3B stability -| CTNNB1/beta-catenin activity -> JUN/c-Jun -> ARHGAP4; MYH9 phase separation -| GSK3B stability -| CTNNB1/beta-catenin activity -> JUN/c-Jun -> MYH9
+41286950	FT1-retained	TRUE	Colorectal cancer	Cell-intrinsic	IGF2BP3 activity -> IL6ST mRNA stability/abundance -> STAT3 activity -> IGF2BP3
+35670012	FT1-retained	TRUE	Colorectal cancer	Cell-intrinsic	DPEP1 protein -> ASCL2 protein stability/activity -> DPEP1 transcription/abundance
+35739524	FT1-retained	TRUE	Colorectal cancer	Cell-intrinsic	HIF1A activity -> RRAGB transcription/abundance -> mTORC1 activity -> HIF1A translation/protein abundance
+33658394	FT1-retained	TRUE	Colorectal cancer	Cell-intrinsic	miR-452-5p -| PKN2 -| MAPK/ERK activity -> JUN/c-Jun activity -> miR-452-5p; miR-452-5p -| DUSP6 -| MAPK/ERK activity -> JUN/c-Jun activity -> miR-452-5p
+34782005	Q2A-retained	TRUE	Colorectal cancer	Cell-intrinsic	SNHG17 ┤ miR-339-5p ┤ FOSL2 → SNHG17
+38087322	FT1-retained	TRUE	Colorectal cancer liver metastasis	Cell-intrinsic	m6A-circ-YAP translation -> YAP-220aa -| LATS1 access to YAP1 -| YAP1 nuclear/transcriptional activity -> circ-YAP transcription
+34145399	FT1-retained	TRUE	Colorectal cancer liver metastasis	Cell-intrinsic	MIR17HG ┤ miR-138-5p ┤ HK1 → glycolytic lactate → MAPK14/p38 activity → ELK1 activity → MIR17HG
+39023169	FT1-retained	TRUE	Esophageal squamous cell carcinoma	Cell-intrinsic	TARDBP/TDP-43 transcriptional activity -> TP63 transcription -> TP63 transcriptional activity -> TARDBP transcription; TARDBP/TDP-43 RNA-binding activity -> TP63 mRNA stability -> TP63 transcriptional activity -> TARDBP transcription
+36008860	FT1-retained	TRUE	Esophageal squamous cell carcinoma	Cell-intrinsic	SMAD3 nuclear activity -> THBS1/TSP1 -> active TGFB1 signaling -> SMAD3 phosphorylation/nuclear activity
+40454092	FT1-retained	TRUE	Gallbladder cancer	Cell-intrinsic	AHR transcriptional activity -> HEGBC transcription -> AHR transcription/activity
+42127732	FT1-retained	TRUE	Gastric cancer	Cell-intrinsic	CDH11 -> TGF-beta pathway activity -> SNAI2/Snail2 nuclear activity -> CDH11 transcription
+42330341	Q2A-retained	TRUE	Gastric cancer	Intercellular/TME	tumour CXCL8 → neuronal CXCR2 → neuronal MIF → tumour VCAM1/ERK/STAT3 → tumour CXCL8
+36632455	FT1-retained	TRUE	Gastric cancer	Intercellular/TME	tumor-cell-secreted BGN -> mesothelial TLR2/TLR4/NF-kappaB activity -> CAF-like-cell FAP secretion -> tumor-cell STAT3 activity -> tumor-cell BGN transcription
+35289315	FT1-retained	TRUE	Gastric cancer	Cell-intrinsic	GATA2 activity -> secreted CGA -> EGFR activity -> GATA2 expression/phosphorylation
+33526767	FT1-retained	TRUE	Gastric cancer	Cell-intrinsic	secreted WNT7B -| FTO activity -| TCF7L2 abundance/activity -> WNT7B; secreted WNT7B -> CTNNB1/beta-catenin activity -> TCF7L2/beta-catenin activity -> WNT7B
+33731207	FT1-retained	TRUE	Gastric cancer	Cell-intrinsic	circFAM73A ┤ miR-490-3p ┤ HMGA2 → E2F1 activity → circFAM73A
+36860162	Q2A-retained	TRUE	Gastric intestinal metaplasia (premalignant gastric lesion)	Cell-intrinsic	GATA4 → CDX2 → GATA4
+41458623	FT1-retained	TRUE	Glioma	Cell-intrinsic	ZFHX4 abundance/activity -> SOX2 abundance/activity -> ZFHX4 abundance/activity
+38982480	FT1-retained	TRUE	Head and neck squamous cell carcinoma	Cell-intrinsic	PFKP protein-interaction activity -> ERK2/MAPK-ERK activity -> MYC Ser62 phosphorylation/protein stability -> PFKP transcription
+42338478	Q2A-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	STRAP ┤ DKK1-LRP6 inhibition → β-catenin/TCF4 → STRAP
+39890782	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	glycolysis -> lactate -> H3K14 lactylation -> NEDD4 -| PTEN -| glycolysis
+40155591	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	CSF3R-AS -> CSF3R mRNA stability -> JAK2/STAT3 activity -> CSF3R-AS
+38825640	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	RGS19 -> MYH9 protein stability -> CTNNB1/beta-catenin activity -> MYC -> RGS19
+37137887	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	KDM5B promoter activity -> IGF2BP1 transcription/abundance -> KDM5B mRNA stability/protein abundance
+37231451	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	METTL3 methyltransferase activity -> STAT3 translation/protein -> WTAP transcription/protein -> METTL3 nuclear localization/methyltransferase activity
+37596320	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	pentose phosphate pathway activity -> NADPH-supported cholesterol synthesis -> NADPH depletion-driven pentose phosphate pathway activity
+38051779	FT1-retained	TRUE	Hepatocellular carcinoma	Cell-intrinsic	ZDHHC7/DHHC7 palmitoyltransferase activity -> STAT3 Cys108 palmitoylation/transcriptional activity -> HIF1A transcription/protein activity -> ZDHHC7 transcription
+41044601	FT1-retained	TRUE	Lung adenocarcinoma	Cell-intrinsic	RPL22L1 -> MYC protein stability -> RPL22L1; RPL22L1 -> MAPK/ERK activity -> MYC protein -> RPL22L1
+33734616	FT1-retained	TRUE	Lung adenocarcinoma	Cell-intrinsic	MND1 -| KLF6 promoter occupancy/repressor activity -| E2F1 -> MND1
+38778059	FT1-retained	TRUE	Lung cancer	Intercellular/TME	macrophage ST2L/IL1RL1 receptor abundance-signaling state -> NF-kappaB activity -> ST2L/IL1RL1 transcription and receptor state
+34163000	FT1-retained	TRUE	Lung cancer	Cell-intrinsic	AKT activity -> TSPYL5-pT120 stability/nuclear activity -| PTEN -| AKT activity
+35173544	FT1-retained	TRUE	Nasopharyngeal carcinoma	Cell-intrinsic	TBL1X -> TCF7L2/TCF4 promoter-complex activity -> FLOT2 -> MYC -> TBL1X
+35227262	FT1-retained	TRUE	Nasopharyngeal carcinoma	Cell-intrinsic	circCAMSAP1 → SERPINH1 → MYC activity → circCAMSAP1
+35373703	FT1-retained	TRUE	Nasopharyngeal carcinoma	Cell-intrinsic	LINC01605 -| miR-942-5p activity -| IKBKB/IKK-beta activity -> RELA/p65 activity -> LINC01605; LINC01605 -> IGF2BP2 recruitment -> USP3 mRNA stability -> IKBKB protein stability/activity -> RELA/p65 activity -> LINC01605
+36199071	FT1-retained	TRUE	Nasopharyngeal carcinoma	Cell-intrinsic	circPVT1 -| BTRC E3 activity toward MYC -| MYC protein stability -> circPVT1; circPVT1 -| BTRC E3 activity toward MYC -| MYC -> SRSF1 -> circPVT1
+37774794	FT1-retained	TRUE	Non-small-cell lung cancer	Cell-intrinsic	MYC -> METTL3 -> LINC01006 -| miR-34a activity -| MYC; MYC -> METTL3 -> LINC01006 -| miR-34b activity -| MYC; MYC -> METTL3 -> LINC01006 -| miR-34c activity -| MYC; MYC -> METTL3 -> LINC01006 -| miR-2682 activity -| MYC
+37008055	FT1-retained	TRUE	Osteosarcoma	Cell-intrinsic	HIF1A promoter activity -> circ_0000566 biogenesis/abundance -> HIF1A protein stability/activity
+41029721	FT1-retained	TRUE	Ovarian cancer	Intercellular/TME	tumor-cell-secreted SAA1 -> MDSC TLR2/TLR4 activity -> MDSC IL1B secretion -> tumor-cell IL1R/NF-kappaB activity -> tumor-cell SAA1 transcription/secretion
+35342355	FT1-retained	TRUE	Ovarian cancer	Cell-intrinsic	CASC15 ┤ miR-23b-3p activity ┤ SMAD3 → CASC15; CASC15 ┤ miR-24-3p activity ┤ HNF1B → SMAD3 → CASC15
+41963301	FT1-retained	TRUE	Pancreatic cancer	Cell-intrinsic	FOXM1 transcriptional activity -> SMAD4 transcription -> SMAD4 transcriptional activity -> FOXM1 transcription; FOXM1 protein interaction -> SMAD4 protein stability -> SMAD4 transcriptional activity -> FOXM1 transcription
+37149664	FT1-retained	TRUE	Pancreatic cancer	Cell-intrinsic	ALKBH5 activity -> HDAC4 mRNA/protein stability -> HIF1A protein stability/activity -> ALKBH5
+35534983	FT1-retained	TRUE	Pancreatic cancer	Cell-intrinsic	TPT1-AS1 -| miR-30a-5p activity -| ITGB3 -> STAT3 activity -> TPT1-AS1
+34245303	FT1-retained	TRUE	Pancreatic cancer	Cell-intrinsic	PVT1 -> HIF1A transcription -> PVT1 transcription; PVT1 -> HIF1A transcription -> PVT1 RNA stability; PVT1 -> HIF1A protein stability -> PVT1 transcription; PVT1 -> HIF1A protein stability -> PVT1 RNA stability
+33648560	FT1-retained	TRUE	Perihilar cholangiocarcinoma	Cell-intrinsic	HMGA1 → TRIP13 ┤ FBXW7 ┤ MYC → HMGA1; TRIP13 ┤ FBXW7 ┤ MYC → TRIP13
+35711895	FT1-retained	TRUE	Triple-negative breast cancer	Cell-intrinsic	LUCAT1 -> ELAVL1 recruitment/RNA-binding activity -> LIN28B mRNA stability -> SOX2 mRNA stability/activity -> LUCAT1 transcription
+36566349	FT1-retained	TRUE	Unresolved cancer context	Cell-intrinsic	m6A-RN7SK secondary-structure activity -> IGF2BP3 mRNA stability/abundance -> IGF2BP3 m6A-reader activity -> RN7SK secondary-structure activity; m6A-RN7SK secondary-structure activity -> YTHDC2 mRNA stability/abundance -> YTHDC2 m6A-reader activity -> RN7SK secondary-structure activity

@@ -1,0 +1,81 @@
+{
+  "phase": "3a-offline",
+  "freeze_date": "2026-08-05",
+  "run_stamp": "2026-08-06T00:59:50",
+  "governing_protocol": "10_ANALYSIS_PROTOCOL_PHASE3_PERTURBATION_RECIPROCITY_FROZEN_2026-08-05.md",
+  "outcome_blind": true,
+  "any_effect_value_read": false,
+  "resources_consulted": [],
+  "input": {
+    "path": "data/frozen/02_SIGNED_EDGE_FIRST_PASS_CANDIDATES_FROZEN_2026-08-05.tsv",
+    "sha256": "3E9E9CFB1E2922A2D94C5AAC83E7619199E377FD0E4C4932334DDCD5165452D6",
+    "records": 53
+  },
+  "counts": {
+    "circuits_parsed": 70,
+    "circuits_unparsed": 0,
+    "edges": 229,
+    "cycles": 70,
+    "cycles_closed": 39,
+    "edges_structurally_eligible": 110,
+    "edges_T_visible_and_eligible": 24,
+    "cycles_closed_and_fully_eligible": 26,
+    "edge_visibility": {
+      "T_uncertain": 162,
+      "T_invisible": 29,
+      "T_visible": 38
+    },
+    "structural_attrition": {
+      "structurally_eligible": 110,
+      "intercellular": 16,
+      "noncoding_rna": 73,
+      "complex_or_pathway": 25,
+      "metabolite_or_process": 5
+    },
+    "gate1_ceilings": {
+      "B1_as_classified": 24,
+      "B2_uncertain_promoted": 95,
+      "B3_absolute_non_intercellular": 213
+    }
+  },
+  "gate_upper_bounds": [
+    {
+      "gate": "t_visible_testable_edges_pooled",
+      "threshold": 150,
+      "upper_bound": 95,
+      "verdict": "CANNOT_PASS"
+    },
+    {
+      "gate": "completely_testable_cycles",
+      "threshold": 25,
+      "upper_bound": 26,
+      "verdict": "UNDECIDED"
+    },
+    {
+      "gate": "contexts_with_50plus_testable_edges",
+      "threshold": 2,
+      "upper_bound": 2,
+      "verdict": "UNDECIDED"
+    },
+    {
+      "gate": "nontransformed_contexts",
+      "threshold": 1,
+      "upper_bound": null,
+      "verdict": "NOT_BOUNDED_OFFLINE"
+    },
+    {
+      "gate": "cycles_testable_in_2plus_contexts",
+      "threshold": 10,
+      "upper_bound": 26,
+      "verdict": "UNDECIDED"
+    }
+  ],
+  "ruling": "EXPLORATORY_ONLY_ALREADY_DETERMINED",
+  "second_human_review_completed": false,
+  "binding_notes": [
+    "Symbols were resolved permissively (no gene universe offline); every count is an UPPER BOUND on what the full Phase 3a run can produce.",
+    "Gate thresholds are frozen in protocol §3.3 and were not modified.",
+    "A gate marked CANNOT_PASS is settled; a gate marked UNDECIDED still requires scripts/run_phase3a.py against R1/R2/R4/R6.",
+    "Node resolution is automated and REQUIRES the human second review of protocol §2.2 before any confirmatory claim."
+  ]
+}

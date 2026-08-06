@@ -1,0 +1,230 @@
+cycle_id	pmid	edge_idx	source_token	target_token	source	target	sign	source_class	target_class	visibility	structural_reason	confirmatory_eligible	compartment	status	review_flag
+39980052#0	39980052	0	CDCA3	TRIM28 protective activity toward MYC	CDCA3	TRIM28	1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+39980052#0	39980052	1	TRIM28 protective activity toward MYC	MYC protein stability	TRIM28	MYC	1	multi_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+39980052#0	39980052	2	MYC protein stability	CDCA3	MYC	CDCA3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37258572#0	37258572	0	YTHDC1 activity	SLC2A3/GLUT3 abundance	YTHDC1	SLC2A3	-1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37258572#0	37258572	1	SLC2A3/GLUT3 abundance	RNF183 abundance	SLC2A3	RNF183	1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37258572#0	37258572	2	RNF183 abundance	YTHDC1 protein stability	RNF183	YTHDC1	-1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36922898#0	36922898	0	macrophage IL-1β	tumour-cell FN1/FN-EDA			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+36922898#0	36922898	1	tumour-cell FN1/FN-EDA	macrophage NF-κB/STAT3			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+36922898#0	36922898	2	macrophage NF-κB/STAT3	IL-1β		IL	1	cell_type_prefixed	single_symbol_unverified	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+34976998#0	34976998	0	HCG18	miR-103a-3p activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34976998#0	34976998	1	miR-103a-3p activity	UBE2O		UBE2O	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34976998#0	34976998	2	UBE2O	PRKAA2/AMPK-alpha2 activity	UBE2O	PRKAA2	-1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+34976998#0	34976998	3	PRKAA2/AMPK-alpha2 activity	mTORC1 activity	PRKAA2		-1	multi_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+34976998#0	34976998	4	mTORC1 activity	HIF1A activity		HIF1A	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+34976998#0	34976998	5	HIF1A activity	HCG18	HIF1A		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+39586165#0	39586165	0	ESR2/ER-beta activity	circATP2B1 abundance	ESR2		-1	multi_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+39586165#0	39586165	1	circATP2B1 abundance	miR-204-3p stability/activity			1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+39586165#0	39586165	2	miR-204-3p stability/activity	TWIST1 abundance		TWIST1	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+39586165#0	39586165	3	TWIST1 abundance	ESR2 transcription	TWIST1	ESR2	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+37927783#0	37927783	0	TTC13	JAK2/STAT3 activity	TTC13		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+37927783#0	37927783	1	JAK2/STAT3 activity	TTC13		TTC13	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+40817404#0	40817404	0	ARHGAP4	MYH9 phase separation	ARHGAP4	MYH9	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#0	40817404	1	MYH9 phase separation	GSK3B stability	MYH9	GSK3B	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#0	40817404	2	GSK3B stability	CTNNB1/beta-catenin activity	GSK3B	CTNNB1	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#0	40817404	3	CTNNB1/beta-catenin activity	JUN/c-Jun	CTNNB1	JUN	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#0	40817404	4	JUN/c-Jun	ARHGAP4	JUN	ARHGAP4	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#1	40817404	0	MYH9 phase separation	GSK3B stability	MYH9	GSK3B	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#1	40817404	1	GSK3B stability	CTNNB1/beta-catenin activity	GSK3B	CTNNB1	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#1	40817404	2	CTNNB1/beta-catenin activity	JUN/c-Jun	CTNNB1	JUN	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40817404#1	40817404	3	JUN/c-Jun	MYH9	JUN	MYH9	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41286950#0	41286950	0	IGF2BP3 activity	IL6ST mRNA stability/abundance	IGF2BP3	IL6ST	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41286950#0	41286950	1	IL6ST mRNA stability/abundance	STAT3 activity	IL6ST	STAT3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41286950#0	41286950	2	STAT3 activity	IGF2BP3	STAT3	IGF2BP3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35670012#0	35670012	0	DPEP1 protein	ASCL2 protein stability/activity	DPEP1	ASCL2	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35670012#0	35670012	1	ASCL2 protein stability/activity	DPEP1 transcription/abundance	ASCL2	DPEP1	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+35739524#0	35739524	0	HIF1A activity	RRAGB transcription/abundance	HIF1A	RRAGB	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+35739524#0	35739524	1	RRAGB transcription/abundance	mTORC1 activity	RRAGB		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+35739524#0	35739524	2	mTORC1 activity	HIF1A translation/protein abundance		HIF1A	1	complex_or_pathway	single_symbol_unverified	T_invisible	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33658394#0	33658394	0	miR-452-5p	PKN2		PKN2	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33658394#0	33658394	1	PKN2	MAPK/ERK activity	PKN2		-1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33658394#0	33658394	2	MAPK/ERK activity	JUN/c-Jun activity		JUN	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33658394#0	33658394	3	JUN/c-Jun activity	miR-452-5p	JUN		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33658394#1	33658394	0	miR-452-5p	DUSP6		DUSP6	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33658394#1	33658394	1	DUSP6	MAPK/ERK activity	DUSP6		-1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33658394#1	33658394	2	MAPK/ERK activity	JUN/c-Jun activity		JUN	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33658394#1	33658394	3	JUN/c-Jun activity	miR-452-5p	JUN		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34782005#0	34782005	0	SNHG17	miR-339-5p			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	Q2A-retained	True
+34782005#0	34782005	1	miR-339-5p	FOSL2		FOSL2	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	Q2A-retained	True
+34782005#0	34782005	2	FOSL2	SNHG17	FOSL2		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	Q2A-retained	True
+38087322#0	38087322	0	m6A-circ-YAP translation	YAP-220aa		YAP	1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+38087322#0	38087322	1	YAP-220aa	LATS1 access to YAP1	YAP	LATS1	-1	single_symbol_unverified	multi_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38087322#0	38087322	2	LATS1 access to YAP1	YAP1 nuclear/transcriptional activity	LATS1	YAP1	-1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38087322#0	38087322	3	YAP1 nuclear/transcriptional activity	circ-YAP transcription	YAP1		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	0	MIR17HG	miR-138-5p			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	1	miR-138-5p	HK1		HK1	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	2	HK1	glycolytic lactate	HK1		1	single_symbol_unverified	metabolite_or_process	T_uncertain	metabolite_or_process	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	3	glycolytic lactate	MAPK14/p38 activity			1	metabolite_or_process	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	4	MAPK14/p38 activity	ELK1 activity		ELK1	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+34145399#0	34145399	5	ELK1 activity	MIR17HG	ELK1		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+39023169#0	39023169	0	TARDBP/TDP-43 transcriptional activity	TP63 transcription	TARDBP	TP63	1	multi_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+39023169#0	39023169	1	TP63 transcription	TP63 transcriptional activity	TP63	TP63	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+39023169#0	39023169	2	TP63 transcriptional activity	TARDBP transcription	TP63	TARDBP	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+39023169#1	39023169	0	TARDBP/TDP-43 RNA-binding activity	TP63 mRNA stability	TARDBP	TP63	1	multi_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+39023169#1	39023169	1	TP63 mRNA stability	TP63 transcriptional activity	TP63	TP63	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+39023169#1	39023169	2	TP63 transcriptional activity	TARDBP transcription	TP63	TARDBP	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+36008860#0	36008860	0	SMAD3 nuclear activity	THBS1/TSP1	SMAD3	THBS1	1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36008860#0	36008860	1	THBS1/TSP1	active TGFB1 signaling	THBS1	TGFB1	1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36008860#0	36008860	2	active TGFB1 signaling	SMAD3 phosphorylation/nuclear activity	TGFB1	SMAD3	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+40454092#0	40454092	0	AHR transcriptional activity	HEGBC transcription	AHR		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+40454092#0	40454092	1	HEGBC transcription	AHR transcription/activity		AHR	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+42127732#0	42127732	0	CDH11	TGF-beta pathway activity	CDH11		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+42127732#0	42127732	1	TGF-beta pathway activity	SNAI2/Snail2 nuclear activity		SNAI2	1	complex_or_pathway	single_symbol_unverified	T_invisible	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+42127732#0	42127732	2	SNAI2/Snail2 nuclear activity	CDH11 transcription	SNAI2	CDH11	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+42330341#0	42330341	0	tumour CXCL8	neuronal CXCR2			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+42330341#0	42330341	1	neuronal CXCR2	neuronal MIF			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+42330341#0	42330341	2	neuronal MIF	tumour VCAM1/ERK/STAT3			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+42330341#0	42330341	3	tumour VCAM1/ERK/STAT3	tumour CXCL8			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	Q2A-retained	True
+36632455#0	36632455	0	tumor-cell-secreted BGN	mesothelial TLR2/TLR4/NF-kappaB activity			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+36632455#0	36632455	1	mesothelial TLR2/TLR4/NF-kappaB activity	CAF-like-cell FAP secretion			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+36632455#0	36632455	2	CAF-like-cell FAP secretion	tumor-cell STAT3 activity			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+36632455#0	36632455	3	tumor-cell STAT3 activity	tumor-cell BGN transcription			1	cell_type_prefixed	cell_type_prefixed	T_visible	intercellular	False	Intercellular/TME	FT1-retained	True
+35289315#0	35289315	0	GATA2 activity	secreted CGA	GATA2	CGA	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35289315#0	35289315	1	secreted CGA	EGFR activity	CGA	EGFR	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35289315#0	35289315	2	EGFR activity	GATA2 expression/phosphorylation	EGFR	GATA2	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33526767#0	33526767	0	secreted WNT7B	FTO activity	WNT7B	FTO	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33526767#0	33526767	1	FTO activity	TCF7L2 abundance/activity	FTO	TCF7L2	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33526767#0	33526767	2	TCF7L2 abundance/activity	WNT7B	TCF7L2	WNT7B	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33526767#1	33526767	0	secreted WNT7B	CTNNB1/beta-catenin activity	WNT7B	CTNNB1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33526767#1	33526767	1	CTNNB1/beta-catenin activity	TCF7L2/beta-catenin activity	CTNNB1		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33526767#1	33526767	2	TCF7L2/beta-catenin activity	WNT7B		WNT7B	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+33731207#0	33731207	0	circFAM73A	miR-490-3p			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33731207#0	33731207	1	miR-490-3p	HMGA2		HMGA2	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33731207#0	33731207	2	HMGA2	E2F1 activity	HMGA2	E2F1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33731207#0	33731207	3	E2F1 activity	circFAM73A	E2F1		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36860162#0	36860162	0	GATA4	CDX2	GATA4	CDX2	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	Q2A-retained	True
+36860162#0	36860162	1	CDX2	GATA4	CDX2	GATA4	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	Q2A-retained	True
+41458623#0	41458623	0	ZFHX4 abundance/activity	SOX2 abundance/activity	ZFHX4	SOX2	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41458623#0	41458623	1	SOX2 abundance/activity	ZFHX4 abundance/activity	SOX2	ZFHX4	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38982480#0	38982480	0	PFKP protein-interaction activity	ERK2/MAPK-ERK activity	PFKP		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+38982480#0	38982480	1	ERK2/MAPK-ERK activity	MYC Ser62 phosphorylation/protein stability		MYC	1	complex_or_pathway	single_symbol_unverified	T_invisible	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+38982480#0	38982480	2	MYC Ser62 phosphorylation/protein stability	PFKP transcription	MYC	PFKP	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+42338478#0	42338478	0	STRAP	DKK1-LRP6 inhibition	STRAP	DKK1	-1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	Q2A-retained	True
+42338478#0	42338478	1	DKK1-LRP6 inhibition	β-catenin/TCF4	DKK1	TCF4	1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	Q2A-retained	True
+42338478#0	42338478	2	β-catenin/TCF4	STRAP	TCF4	STRAP	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	Q2A-retained	True
+39890782#0	39890782	0	glycolysis	lactate			1	metabolite_or_process	metabolite_or_process	T_uncertain	metabolite_or_process	False	Cell-intrinsic	FT1-retained	True
+39890782#0	39890782	1	lactate	H3K14 lactylation		H3K14	1	metabolite_or_process	single_symbol_unverified	T_invisible	metabolite_or_process	False	Cell-intrinsic	FT1-retained	True
+39890782#0	39890782	2	H3K14 lactylation	NEDD4	H3K14	NEDD4	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+39890782#0	39890782	3	NEDD4	PTEN	NEDD4	PTEN	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+39890782#0	39890782	4	PTEN	glycolysis	PTEN		-1	single_symbol_unverified	metabolite_or_process	T_uncertain	metabolite_or_process	False	Cell-intrinsic	FT1-retained	True
+40155591#0	40155591	0	CSF3R-AS	CSF3R mRNA stability		CSF3R	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+40155591#0	40155591	1	CSF3R mRNA stability	JAK2/STAT3 activity	CSF3R		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+40155591#0	40155591	2	JAK2/STAT3 activity	CSF3R-AS			1	complex_or_pathway	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+38825640#0	38825640	0	RGS19	MYH9 protein stability	RGS19	MYH9	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38825640#0	38825640	1	MYH9 protein stability	CTNNB1/beta-catenin activity	MYH9	CTNNB1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38825640#0	38825640	2	CTNNB1/beta-catenin activity	MYC	CTNNB1	MYC	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38825640#0	38825640	3	MYC	RGS19	MYC	RGS19	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37137887#0	37137887	0	KDM5B promoter activity	IGF2BP1 transcription/abundance	KDM5B	IGF2BP1	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+37137887#0	37137887	1	IGF2BP1 transcription/abundance	KDM5B mRNA stability/protein abundance	IGF2BP1	KDM5B	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37231451#0	37231451	0	METTL3 methyltransferase activity	STAT3 translation/protein	METTL3	STAT3	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37231451#0	37231451	1	STAT3 translation/protein	WTAP transcription/protein	STAT3	WTAP	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+37231451#0	37231451	2	WTAP transcription/protein	METTL3 nuclear localization/methyltransferase activity	WTAP	METTL3	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37596320#0	37596320	0	pentose phosphate pathway activity	NADPH-supported cholesterol synthesis		NADPH	1	metabolite_or_process	single_symbol_unverified	T_uncertain	metabolite_or_process	False	Cell-intrinsic	FT1-retained	True
+37596320#0	37596320	1	NADPH-supported cholesterol synthesis	NADPH depletion-driven pentose phosphate pathway activity	NADPH	NADPH	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38051779#0	38051779	0	ZDHHC7/DHHC7 palmitoyltransferase activity	STAT3 Cys108 palmitoylation/transcriptional activity	ZDHHC7	STAT3	1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38051779#0	38051779	1	STAT3 Cys108 palmitoylation/transcriptional activity	HIF1A transcription/protein activity	STAT3	HIF1A	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+38051779#0	38051779	2	HIF1A transcription/protein activity	ZDHHC7 transcription	HIF1A	ZDHHC7	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41044601#0	41044601	0	RPL22L1	MYC protein stability	RPL22L1	MYC	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41044601#0	41044601	1	MYC protein stability	RPL22L1	MYC	RPL22L1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41044601#1	41044601	0	RPL22L1	MAPK/ERK activity	RPL22L1		1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+41044601#1	41044601	1	MAPK/ERK activity	MYC protein		MYC	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+41044601#1	41044601	2	MYC protein	RPL22L1	MYC	RPL22L1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33734616#0	33734616	0	MND1	KLF6 promoter occupancy/repressor activity	MND1	KLF6	-1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33734616#0	33734616	1	KLF6 promoter occupancy/repressor activity	E2F1	KLF6	E2F1	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33734616#0	33734616	2	E2F1	MND1	E2F1	MND1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+38778059#0	38778059	0	macrophage ST2L/IL1RL1 receptor abundance-signaling state	NF-kappaB activity			1	cell_type_prefixed	complex_or_pathway	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+38778059#0	38778059	1	NF-kappaB activity	ST2L/IL1RL1 transcription and receptor state		ST2L	1	complex_or_pathway	multi_symbol_unverified	T_uncertain	complex_or_pathway	False	Intercellular/TME	FT1-retained	True
+34163000#0	34163000	0	AKT activity	TSPYL5-pT120 stability/nuclear activity		TSPYL5	1	complex_or_pathway	single_symbol_unverified	T_invisible	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+34163000#0	34163000	1	TSPYL5-pT120 stability/nuclear activity	PTEN	TSPYL5	PTEN	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+34163000#0	34163000	2	PTEN	AKT activity	PTEN		-1	single_symbol_unverified	complex_or_pathway	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+35173544#0	35173544	0	TBL1X	TCF7L2/TCF4 promoter-complex activity	TBL1X	TCF7L2	1	single_symbol_unverified	multi_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35173544#0	35173544	1	TCF7L2/TCF4 promoter-complex activity	FLOT2	TCF7L2	FLOT2	1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35173544#0	35173544	2	FLOT2	MYC	FLOT2	MYC	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35173544#0	35173544	3	MYC	TBL1X	MYC	TBL1X	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35227262#0	35227262	0	circCAMSAP1	SERPINH1		SERPINH1	1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35227262#0	35227262	1	SERPINH1	MYC activity	SERPINH1	MYC	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35227262#0	35227262	2	MYC activity	circCAMSAP1	MYC		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35373703#0	35373703	0	LINC01605	miR-942-5p activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35373703#0	35373703	1	miR-942-5p activity	IKBKB/IKK-beta activity			-1	noncoding_rna	complex_or_pathway	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35373703#0	35373703	2	IKBKB/IKK-beta activity	RELA/p65 activity		RELA	1	complex_or_pathway	single_symbol_unverified	T_uncertain	complex_or_pathway	False	Cell-intrinsic	FT1-retained	True
+35373703#0	35373703	3	RELA/p65 activity	LINC01605	RELA		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35373703#1	35373703	0	LINC01605	IGF2BP2 recruitment		IGF2BP2	1	noncoding_rna	single_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35373703#1	35373703	1	IGF2BP2 recruitment	USP3 mRNA stability	IGF2BP2	USP3	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+35373703#1	35373703	2	USP3 mRNA stability	IKBKB protein stability/activity	USP3	IKBKB	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35373703#1	35373703	3	IKBKB protein stability/activity	RELA/p65 activity	IKBKB	RELA	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35373703#1	35373703	4	RELA/p65 activity	LINC01605	RELA		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36199071#0	36199071	0	circPVT1	BTRC E3 activity toward MYC		BTRC	-1	noncoding_rna	multi_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36199071#0	36199071	1	BTRC E3 activity toward MYC	MYC protein stability	BTRC	MYC	-1	multi_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36199071#0	36199071	2	MYC protein stability	circPVT1	MYC		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36199071#1	36199071	0	circPVT1	BTRC E3 activity toward MYC		BTRC	-1	noncoding_rna	multi_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36199071#1	36199071	1	BTRC E3 activity toward MYC	MYC	BTRC	MYC	-1	multi_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36199071#1	36199071	2	MYC	SRSF1	MYC	SRSF1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36199071#1	36199071	3	SRSF1	circPVT1	SRSF1		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#0	37774794	0	MYC	METTL3	MYC	METTL3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37774794#0	37774794	1	METTL3	LINC01006	METTL3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#0	37774794	2	LINC01006	miR-34a activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#0	37774794	3	miR-34a activity	MYC		MYC	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#1	37774794	0	MYC	METTL3	MYC	METTL3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37774794#1	37774794	1	METTL3	LINC01006	METTL3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#1	37774794	2	LINC01006	miR-34b activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#1	37774794	3	miR-34b activity	MYC		MYC	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#2	37774794	0	MYC	METTL3	MYC	METTL3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37774794#2	37774794	1	METTL3	LINC01006	METTL3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#2	37774794	2	LINC01006	miR-34c activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#2	37774794	3	miR-34c activity	MYC		MYC	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#3	37774794	0	MYC	METTL3	MYC	METTL3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37774794#3	37774794	1	METTL3	LINC01006	METTL3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#3	37774794	2	LINC01006	miR-2682 activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37774794#3	37774794	3	miR-2682 activity	MYC		MYC	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37008055#0	37008055	0	HIF1A promoter activity	circ_0000566 biogenesis/abundance	HIF1A		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+37008055#0	37008055	1	circ_0000566 biogenesis/abundance	HIF1A protein stability/activity		HIF1A	1	noncoding_rna	single_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+41029721#0	41029721	0	tumor-cell-secreted SAA1	MDSC TLR2/TLR4 activity			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+41029721#0	41029721	1	MDSC TLR2/TLR4 activity	MDSC IL1B secretion			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+41029721#0	41029721	2	MDSC IL1B secretion	tumor-cell IL1R/NF-kappaB activity			1	cell_type_prefixed	cell_type_prefixed	T_uncertain	intercellular	False	Intercellular/TME	FT1-retained	True
+41029721#0	41029721	3	tumor-cell IL1R/NF-kappaB activity	tumor-cell SAA1 transcription/secretion			1	cell_type_prefixed	cell_type_prefixed	T_visible	intercellular	False	Intercellular/TME	FT1-retained	True
+35342355#0	35342355	0	CASC15	miR-23b-3p activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35342355#0	35342355	1	miR-23b-3p activity	SMAD3		SMAD3	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35342355#0	35342355	2	SMAD3	CASC15	SMAD3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35342355#1	35342355	0	CASC15	miR-24-3p activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35342355#1	35342355	1	miR-24-3p activity	HNF1B		HNF1B	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35342355#1	35342355	2	HNF1B	SMAD3	HNF1B	SMAD3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35342355#1	35342355	3	SMAD3	CASC15	SMAD3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+41963301#0	41963301	0	FOXM1 transcriptional activity	SMAD4 transcription	FOXM1	SMAD4	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41963301#0	41963301	1	SMAD4 transcription	SMAD4 transcriptional activity	SMAD4	SMAD4	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41963301#0	41963301	2	SMAD4 transcriptional activity	FOXM1 transcription	SMAD4	FOXM1	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41963301#1	41963301	0	FOXM1 protein interaction	SMAD4 protein stability	FOXM1	SMAD4	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+41963301#1	41963301	1	SMAD4 protein stability	SMAD4 transcriptional activity	SMAD4	SMAD4	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+41963301#1	41963301	2	SMAD4 transcriptional activity	FOXM1 transcription	SMAD4	FOXM1	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+37149664#0	37149664	0	ALKBH5 activity	HDAC4 mRNA/protein stability	ALKBH5	HDAC4	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37149664#0	37149664	1	HDAC4 mRNA/protein stability	HIF1A protein stability/activity	HDAC4	HIF1A	1	single_symbol_unverified	single_symbol_unverified	T_invisible	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+37149664#0	37149664	2	HIF1A protein stability/activity	ALKBH5	HIF1A	ALKBH5	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35534983#0	35534983	0	TPT1-AS1	miR-30a-5p activity			-1	noncoding_rna	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35534983#0	35534983	1	miR-30a-5p activity	ITGB3		ITGB3	-1	noncoding_rna	single_symbol_unverified	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35534983#0	35534983	2	ITGB3	STAT3 activity	ITGB3	STAT3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35534983#0	35534983	3	STAT3 activity	TPT1-AS1	STAT3		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#0	34245303	0	PVT1	HIF1A transcription		HIF1A	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#0	34245303	1	HIF1A transcription	PVT1 transcription	HIF1A		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#1	34245303	0	PVT1	HIF1A transcription		HIF1A	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#1	34245303	1	HIF1A transcription	PVT1 RNA stability	HIF1A		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#2	34245303	0	PVT1	HIF1A protein stability		HIF1A	1	noncoding_rna	single_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#2	34245303	1	HIF1A protein stability	PVT1 transcription	HIF1A		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#3	34245303	0	PVT1	HIF1A protein stability		HIF1A	1	noncoding_rna	single_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+34245303#3	34245303	1	HIF1A protein stability	PVT1 RNA stability	HIF1A		1	single_symbol_unverified	noncoding_rna	T_uncertain	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+33648560#0	33648560	0	HMGA1	TRIP13	HMGA1	TRIP13	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#0	33648560	1	TRIP13	FBXW7	TRIP13	FBXW7	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#0	33648560	2	FBXW7	MYC	FBXW7	MYC	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#0	33648560	3	MYC	HMGA1	MYC	HMGA1	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#1	33648560	0	TRIP13	FBXW7	TRIP13	FBXW7	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#1	33648560	1	FBXW7	MYC	FBXW7	MYC	-1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+33648560#1	33648560	2	MYC	TRIP13	MYC	TRIP13	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+35711895#0	35711895	0	LUCAT1	ELAVL1 recruitment/RNA-binding activity		ELAVL1	1	noncoding_rna	multi_symbol_unverified	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+35711895#0	35711895	1	ELAVL1 recruitment/RNA-binding activity	LIN28B mRNA stability	ELAVL1	LIN28B	1	multi_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+35711895#0	35711895	2	LIN28B mRNA stability	SOX2 mRNA stability/activity	LIN28B	SOX2	1	single_symbol_unverified	single_symbol_unverified	T_visible	structurally_eligible	True	Cell-intrinsic	FT1-retained	True
+35711895#0	35711895	3	SOX2 mRNA stability/activity	LUCAT1 transcription	SOX2		1	single_symbol_unverified	noncoding_rna	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36566349#0	36566349	0	m6A-RN7SK secondary-structure activity	IGF2BP3 mRNA stability/abundance		IGF2BP3	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36566349#0	36566349	1	IGF2BP3 mRNA stability/abundance	IGF2BP3 m6A-reader activity	IGF2BP3	IGF2BP3	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36566349#0	36566349	2	IGF2BP3 m6A-reader activity	RN7SK secondary-structure activity	IGF2BP3		1	single_symbol_unverified	noncoding_rna	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36566349#1	36566349	0	m6A-RN7SK secondary-structure activity	YTHDC2 mRNA stability/abundance		YTHDC2	1	noncoding_rna	single_symbol_unverified	T_visible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True
+36566349#1	36566349	1	YTHDC2 mRNA stability/abundance	YTHDC2 m6A-reader activity	YTHDC2	YTHDC2	1	single_symbol_unverified	single_symbol_unverified	T_uncertain	structurally_eligible	False	Cell-intrinsic	FT1-retained	True
+36566349#1	36566349	2	YTHDC2 m6A-reader activity	RN7SK secondary-structure activity	YTHDC2		1	single_symbol_unverified	noncoding_rna	T_invisible	noncoding_rna	False	Cell-intrinsic	FT1-retained	True

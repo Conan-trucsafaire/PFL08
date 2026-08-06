@@ -1,0 +1,209 @@
+raw_token	occurrences	node_class	provisional_symbol	visibility	note	cycles	reviewer_symbol	reviewer_visibility	reviewer_decision
+MYC	13	single_symbol_unverified	MYC	T_uncertain	provisional: no gene universe available	33648560#0;33648560#1;35173544#0;36199071#1;37774794#0;37774794#1;37774794#2;37774794#3;38825640#0			
+CASC15	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35342355#0;35342355#1			
+CTNNB1/beta-catenin activity	4	single_symbol_unverified	CTNNB1	T_uncertain	provisional: no gene universe available	33526767#1;38825640#0;40817404#0;40817404#1			
+LINC01006	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	37774794#0;37774794#1;37774794#2;37774794#3			
+LINC01605	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35373703#0;35373703#1			
+METTL3	4	single_symbol_unverified	METTL3	T_uncertain	provisional: no gene universe available	37774794#0;37774794#1;37774794#2;37774794#3			
+PVT1	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34245303#0;34245303#1;34245303#2;34245303#3			
+RPL22L1	4	single_symbol_unverified	RPL22L1	T_uncertain	provisional: no gene universe available	41044601#0;41044601#1			
+circPVT1	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	36199071#0;36199071#1			
+miR-452-5p	4	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	33658394#0;33658394#1			
+MAPK/ERK activity	3	complex_or_pathway		T_uncertain	complex/pathway token 'MAPK/ERK'; no gene assigned	33658394#0;33658394#1;41044601#1			
+MYC protein stability	3	single_symbol_unverified	MYC	T_invisible	provisional: no gene universe available	36199071#0;39980052#0;41044601#0			
+TRIP13	3	single_symbol_unverified	TRIP13	T_uncertain	provisional: no gene universe available	33648560#0;33648560#1			
+AKT activity	2	complex_or_pathway		T_uncertain	complex/pathway token 'AKT'; no gene assigned	34163000#0			
+ARHGAP4	2	single_symbol_unverified	ARHGAP4	T_uncertain	provisional: no gene universe available	40817404#0			
+BTRC E3 activity toward MYC	2	multi_symbol_unverified	BTRC	T_invisible	multiple symbols ['BTRC', 'E3', 'MYC']; first taken provisionally	36199071#0;36199071#1			
+CDCA3	2	single_symbol_unverified	CDCA3	T_uncertain	provisional: no gene universe available	39980052#0			
+CSF3R-AS	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	40155591#0			
+FBXW7	2	single_symbol_unverified	FBXW7	T_uncertain	provisional: no gene universe available	33648560#0;33648560#1			
+FOXM1 transcription	2	single_symbol_unverified	FOXM1	T_visible	provisional: no gene universe available	41963301#0;41963301#1			
+GATA4	2	single_symbol_unverified	GATA4	T_uncertain	provisional: no gene universe available	36860162#0			
+GSK3B stability	2	single_symbol_unverified	GSK3B	T_uncertain	provisional: no gene universe available	40817404#0;40817404#1			
+HCG18	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34976998#0			
+HIF1A activity	2	single_symbol_unverified	HIF1A	T_uncertain	provisional: no gene universe available	34976998#0;35739524#0			
+HIF1A protein stability	2	single_symbol_unverified	HIF1A	T_invisible	provisional: no gene universe available	34245303#2;34245303#3			
+HIF1A protein stability/activity	2	single_symbol_unverified	HIF1A	T_invisible	provisional: no gene universe available	37008055#0;37149664#0			
+HIF1A transcription	2	single_symbol_unverified	HIF1A	T_visible	provisional: no gene universe available	34245303#0;34245303#1			
+HMGA1	2	single_symbol_unverified	HMGA1	T_uncertain	provisional: no gene universe available	33648560#0			
+JAK2/STAT3 activity	2	complex_or_pathway		T_uncertain	complex/pathway token 'JAK2/STAT3'; no gene assigned	37927783#0;40155591#0			
+JUN/c-Jun	2	single_symbol_unverified	JUN	T_uncertain	provisional: no gene universe available	40817404#0;40817404#1			
+JUN/c-Jun activity	2	single_symbol_unverified	JUN	T_uncertain	provisional: no gene universe available	33658394#0;33658394#1			
+MIR17HG	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34145399#0			
+MND1	2	single_symbol_unverified	MND1	T_uncertain	provisional: no gene universe available	33734616#0			
+MYH9 phase separation	2	single_symbol_unverified	MYH9	T_invisible	provisional: no gene universe available	40817404#0;40817404#1			
+PTEN	2	single_symbol_unverified	PTEN	T_uncertain	provisional: no gene universe available	34163000#0;39890782#0			
+PVT1 RNA stability	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34245303#1;34245303#3			
+PVT1 transcription	2	noncoding_rna		T_visible	non-coding; confirm membership in the screen's perturbation list	34245303#0;34245303#2			
+RELA/p65 activity	2	single_symbol_unverified	RELA	T_uncertain	provisional: no gene universe available	35373703#0;35373703#1			
+RGS19	2	single_symbol_unverified	RGS19	T_uncertain	provisional: no gene universe available	38825640#0			
+RN7SK secondary-structure activity	2	noncoding_rna		T_invisible	non-coding; confirm membership in the screen's perturbation list	36566349#0;36566349#1			
+SMAD3	2	single_symbol_unverified	SMAD3	T_uncertain	provisional: no gene universe available	35342355#0;35342355#1			
+SMAD4 transcriptional activity	2	single_symbol_unverified	SMAD4	T_visible	provisional: no gene universe available	41963301#0;41963301#1			
+SNHG17	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34782005#0			
+STAT3 activity	2	single_symbol_unverified	STAT3	T_uncertain	provisional: no gene universe available	35534983#0;41286950#0			
+STRAP	2	single_symbol_unverified	STRAP	T_uncertain	provisional: no gene universe available	42338478#0			
+TARDBP transcription	2	single_symbol_unverified	TARDBP	T_visible	provisional: no gene universe available	39023169#0;39023169#1			
+TBL1X	2	single_symbol_unverified	TBL1X	T_uncertain	provisional: no gene universe available	35173544#0			
+TP63 transcriptional activity	2	single_symbol_unverified	TP63	T_visible	provisional: no gene universe available	39023169#0;39023169#1			
+TPT1-AS1	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35534983#0			
+TTC13	2	single_symbol_unverified	TTC13	T_uncertain	provisional: no gene universe available	37927783#0			
+WNT7B	2	single_symbol_unverified	WNT7B	T_uncertain	provisional: no gene universe available	33526767#0;33526767#1			
+ZFHX4 abundance/activity	2	single_symbol_unverified	ZFHX4	T_uncertain	provisional: no gene universe available	41458623#0			
+circCAMSAP1	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35227262#0			
+circFAM73A	2	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	33731207#0			
+glycolysis	2	metabolite_or_process		T_uncertain		39890782#0			
+m6A-RN7SK secondary-structure activity	2	noncoding_rna		T_invisible	non-coding; confirm membership in the screen's perturbation list	36566349#0;36566349#1			
+mTORC1 activity	2	complex_or_pathway		T_uncertain	complex/pathway token 'mTORC1'; no gene assigned	34976998#0;35739524#0			
+secreted WNT7B	2	single_symbol_unverified	WNT7B	T_uncertain	provisional: no gene universe available	33526767#0;33526767#1			
+tumour CXCL8	2	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	42330341#0			
+AHR transcription/activity	1	single_symbol_unverified	AHR	T_visible	provisional: no gene universe available	40454092#0			
+AHR transcriptional activity	1	single_symbol_unverified	AHR	T_visible	provisional: no gene universe available	40454092#0			
+ALKBH5	1	single_symbol_unverified	ALKBH5	T_uncertain	provisional: no gene universe available	37149664#0			
+ALKBH5 activity	1	single_symbol_unverified	ALKBH5	T_uncertain	provisional: no gene universe available	37149664#0			
+ASCL2 protein stability/activity	1	single_symbol_unverified	ASCL2	T_invisible	provisional: no gene universe available	35670012#0			
+CAF-like-cell FAP secretion	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36632455#0			
+CDH11	1	single_symbol_unverified	CDH11	T_uncertain	provisional: no gene universe available	42127732#0			
+CDH11 transcription	1	single_symbol_unverified	CDH11	T_visible	provisional: no gene universe available	42127732#0			
+CDX2	1	single_symbol_unverified	CDX2	T_uncertain	provisional: no gene universe available	36860162#0			
+CSF3R mRNA stability	1	single_symbol_unverified	CSF3R	T_visible	provisional: no gene universe available	40155591#0			
+DKK1-LRP6 inhibition	1	multi_symbol_unverified	DKK1	T_uncertain	multiple symbols ['DKK1', 'LRP6']; first taken provisionally	42338478#0			
+DPEP1 protein	1	single_symbol_unverified	DPEP1	T_uncertain	provisional: no gene universe available	35670012#0			
+DPEP1 transcription/abundance	1	single_symbol_unverified	DPEP1	T_visible	provisional: no gene universe available	35670012#0			
+DUSP6	1	single_symbol_unverified	DUSP6	T_uncertain	provisional: no gene universe available	33658394#1			
+E2F1	1	single_symbol_unverified	E2F1	T_uncertain	provisional: no gene universe available	33734616#0			
+E2F1 activity	1	single_symbol_unverified	E2F1	T_uncertain	provisional: no gene universe available	33731207#0			
+EGFR activity	1	single_symbol_unverified	EGFR	T_uncertain	provisional: no gene universe available	35289315#0			
+ELAVL1 recruitment/RNA-binding activity	1	multi_symbol_unverified	ELAVL1	T_invisible	multiple symbols ['ELAVL1', 'RNA']; first taken provisionally	35711895#0			
+ELK1 activity	1	single_symbol_unverified	ELK1	T_uncertain	provisional: no gene universe available	34145399#0			
+ERK2/MAPK-ERK activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'MAPK'; no gene assigned	38982480#0			
+ESR2 transcription	1	single_symbol_unverified	ESR2	T_visible	provisional: no gene universe available	39586165#0			
+ESR2/ER-beta activity	1	multi_symbol_unverified	ESR2	T_uncertain	multiple symbols ['ESR2', 'ER']; first taken provisionally	39586165#0			
+FLOT2	1	single_symbol_unverified	FLOT2	T_uncertain	provisional: no gene universe available	35173544#0			
+FOSL2	1	single_symbol_unverified	FOSL2	T_uncertain	provisional: no gene universe available	34782005#0			
+FOXM1 protein interaction	1	single_symbol_unverified	FOXM1	T_invisible	provisional: no gene universe available	41963301#1			
+FOXM1 transcriptional activity	1	single_symbol_unverified	FOXM1	T_visible	provisional: no gene universe available	41963301#0			
+FTO activity	1	single_symbol_unverified	FTO	T_uncertain	provisional: no gene universe available	33526767#0			
+GATA2 activity	1	single_symbol_unverified	GATA2	T_uncertain	provisional: no gene universe available	35289315#0			
+GATA2 expression/phosphorylation	1	single_symbol_unverified	GATA2	T_uncertain	provisional: no gene universe available	35289315#0			
+H3K14 lactylation	1	single_symbol_unverified	H3K14	T_invisible	provisional: no gene universe available	39890782#0			
+HDAC4 mRNA/protein stability	1	single_symbol_unverified	HDAC4	T_uncertain	provisional: no gene universe available	37149664#0			
+HEGBC transcription	1	noncoding_rna		T_visible	non-coding; confirm membership in the screen's perturbation list	40454092#0			
+HIF1A promoter activity	1	single_symbol_unverified	HIF1A	T_visible	provisional: no gene universe available	37008055#0			
+HIF1A transcription/protein activity	1	single_symbol_unverified	HIF1A	T_visible	provisional: no gene universe available	38051779#0			
+HIF1A translation/protein abundance	1	single_symbol_unverified	HIF1A	T_invisible	provisional: no gene universe available	35739524#0			
+HK1	1	single_symbol_unverified	HK1	T_uncertain	provisional: no gene universe available	34145399#0			
+HMGA2	1	single_symbol_unverified	HMGA2	T_uncertain	provisional: no gene universe available	33731207#0			
+HNF1B	1	single_symbol_unverified	HNF1B	T_uncertain	provisional: no gene universe available	35342355#1			
+IGF2BP1 transcription/abundance	1	single_symbol_unverified	IGF2BP1	T_visible	provisional: no gene universe available	37137887#0			
+IGF2BP2 recruitment	1	single_symbol_unverified	IGF2BP2	T_invisible	provisional: no gene universe available	35373703#1			
+IGF2BP3	1	single_symbol_unverified	IGF2BP3	T_uncertain	provisional: no gene universe available	41286950#0			
+IGF2BP3 activity	1	single_symbol_unverified	IGF2BP3	T_uncertain	provisional: no gene universe available	41286950#0			
+IGF2BP3 m6A-reader activity	1	single_symbol_unverified	IGF2BP3	T_uncertain	provisional: no gene universe available	36566349#0			
+IGF2BP3 mRNA stability/abundance	1	single_symbol_unverified	IGF2BP3	T_visible	provisional: no gene universe available	36566349#0			
+IKBKB protein stability/activity	1	single_symbol_unverified	IKBKB	T_invisible	provisional: no gene universe available	35373703#1			
+IKBKB/IKK-beta activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'IKK'; no gene assigned	35373703#0			
+IL-1β	1	single_symbol_unverified	IL	T_uncertain	provisional: no gene universe available	36922898#0			
+IL6ST mRNA stability/abundance	1	single_symbol_unverified	IL6ST	T_visible	provisional: no gene universe available	41286950#0			
+ITGB3	1	single_symbol_unverified	ITGB3	T_uncertain	provisional: no gene universe available	35534983#0			
+KDM5B mRNA stability/protein abundance	1	single_symbol_unverified	KDM5B	T_uncertain	provisional: no gene universe available	37137887#0			
+KDM5B promoter activity	1	single_symbol_unverified	KDM5B	T_visible	provisional: no gene universe available	37137887#0			
+KLF6 promoter occupancy/repressor activity	1	single_symbol_unverified	KLF6	T_invisible	provisional: no gene universe available	33734616#0			
+LATS1 access to YAP1	1	multi_symbol_unverified	LATS1	T_invisible	multiple symbols ['LATS1', 'YAP1']; first taken provisionally	38087322#0			
+LIN28B mRNA stability	1	single_symbol_unverified	LIN28B	T_visible	provisional: no gene universe available	35711895#0			
+LUCAT1	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35711895#0			
+LUCAT1 transcription	1	noncoding_rna		T_visible	non-coding; confirm membership in the screen's perturbation list	35711895#0			
+MAPK14/p38 activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'p38'; no gene assigned	34145399#0			
+MDSC IL1B secretion	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	41029721#0			
+MDSC TLR2/TLR4 activity	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	41029721#0			
+METTL3 methyltransferase activity	1	single_symbol_unverified	METTL3	T_invisible	provisional: no gene universe available	37231451#0			
+METTL3 nuclear localization/methyltransferase activity	1	single_symbol_unverified	METTL3	T_invisible	provisional: no gene universe available	37231451#0			
+MYC Ser62 phosphorylation/protein stability	1	single_symbol_unverified	MYC	T_invisible	provisional: no gene universe available	38982480#0			
+MYC activity	1	single_symbol_unverified	MYC	T_uncertain	provisional: no gene universe available	35227262#0			
+MYC protein	1	single_symbol_unverified	MYC	T_uncertain	provisional: no gene universe available	41044601#1			
+MYH9	1	single_symbol_unverified	MYH9	T_uncertain	provisional: no gene universe available	40817404#1			
+MYH9 protein stability	1	single_symbol_unverified	MYH9	T_invisible	provisional: no gene universe available	38825640#0			
+NADPH depletion-driven pentose phosphate pathway activity	1	single_symbol_unverified	NADPH	T_uncertain	provisional: no gene universe available	37596320#0			
+NADPH-supported cholesterol synthesis	1	single_symbol_unverified	NADPH	T_uncertain	provisional: no gene universe available	37596320#0			
+NEDD4	1	single_symbol_unverified	NEDD4	T_uncertain	provisional: no gene universe available	39890782#0			
+NF-kappaB activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'NF-kappaB'; no gene assigned	38778059#0			
+PFKP protein-interaction activity	1	single_symbol_unverified	PFKP	T_invisible	provisional: no gene universe available	38982480#0			
+PFKP transcription	1	single_symbol_unverified	PFKP	T_visible	provisional: no gene universe available	38982480#0			
+PKN2	1	single_symbol_unverified	PKN2	T_uncertain	provisional: no gene universe available	33658394#0			
+PRKAA2/AMPK-alpha2 activity	1	multi_symbol_unverified	PRKAA2	T_uncertain	multiple symbols ['PRKAA2', 'AMPK']; first taken provisionally	34976998#0			
+RNF183 abundance	1	single_symbol_unverified	RNF183	T_uncertain	provisional: no gene universe available	37258572#0			
+RRAGB transcription/abundance	1	single_symbol_unverified	RRAGB	T_visible	provisional: no gene universe available	35739524#0			
+SERPINH1	1	single_symbol_unverified	SERPINH1	T_uncertain	provisional: no gene universe available	35227262#0			
+SLC2A3/GLUT3 abundance	1	multi_symbol_unverified	SLC2A3	T_uncertain	multiple symbols ['SLC2A3', 'GLUT3']; first taken provisionally	37258572#0			
+SMAD3 nuclear activity	1	single_symbol_unverified	SMAD3	T_invisible	provisional: no gene universe available	36008860#0			
+SMAD3 phosphorylation/nuclear activity	1	single_symbol_unverified	SMAD3	T_invisible	provisional: no gene universe available	36008860#0			
+SMAD4 protein stability	1	single_symbol_unverified	SMAD4	T_invisible	provisional: no gene universe available	41963301#1			
+SMAD4 transcription	1	single_symbol_unverified	SMAD4	T_visible	provisional: no gene universe available	41963301#0			
+SNAI2/Snail2 nuclear activity	1	single_symbol_unverified	SNAI2	T_invisible	provisional: no gene universe available	42127732#0			
+SOX2 abundance/activity	1	single_symbol_unverified	SOX2	T_uncertain	provisional: no gene universe available	41458623#0			
+SOX2 mRNA stability/activity	1	single_symbol_unverified	SOX2	T_visible	provisional: no gene universe available	35711895#0			
+SRSF1	1	single_symbol_unverified	SRSF1	T_uncertain	provisional: no gene universe available	36199071#1			
+ST2L/IL1RL1 transcription and receptor state	1	multi_symbol_unverified	ST2L	T_uncertain	multiple symbols ['ST2L', 'IL1RL1']; first taken provisionally	38778059#0			
+STAT3 Cys108 palmitoylation/transcriptional activity	1	single_symbol_unverified	STAT3	T_uncertain	provisional: no gene universe available	38051779#0			
+STAT3 translation/protein	1	single_symbol_unverified	STAT3	T_invisible	provisional: no gene universe available	37231451#0			
+TARDBP/TDP-43 RNA-binding activity	1	multi_symbol_unverified	TARDBP	T_uncertain	multiple symbols ['TARDBP', 'TDP-43', 'RNA']; first taken provisionally	39023169#1			
+TARDBP/TDP-43 transcriptional activity	1	multi_symbol_unverified	TARDBP	T_visible	multiple symbols ['TARDBP', 'TDP-43']; first taken provisionally	39023169#0			
+TCF7L2 abundance/activity	1	single_symbol_unverified	TCF7L2	T_uncertain	provisional: no gene universe available	33526767#0			
+TCF7L2/TCF4 promoter-complex activity	1	multi_symbol_unverified	TCF7L2	T_uncertain	multiple symbols ['TCF7L2', 'TCF4']; first taken provisionally	35173544#0			
+TCF7L2/beta-catenin activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'TCF7L2/beta-catenin'; no gene assigned	33526767#1			
+TGF-beta pathway activity	1	complex_or_pathway		T_uncertain	complex/pathway token 'TGF-beta pathway'; no gene assigned	42127732#0			
+THBS1/TSP1	1	multi_symbol_unverified	THBS1	T_uncertain	multiple symbols ['THBS1', 'TSP1']; first taken provisionally	36008860#0			
+TP63 mRNA stability	1	single_symbol_unverified	TP63	T_visible	provisional: no gene universe available	39023169#1			
+TP63 transcription	1	single_symbol_unverified	TP63	T_visible	provisional: no gene universe available	39023169#0			
+TRIM28 protective activity toward MYC	1	multi_symbol_unverified	TRIM28	T_uncertain	multiple symbols ['TRIM28', 'MYC']; first taken provisionally	39980052#0			
+TSPYL5-pT120 stability/nuclear activity	1	single_symbol_unverified	TSPYL5	T_invisible	provisional: no gene universe available	34163000#0			
+TWIST1 abundance	1	single_symbol_unverified	TWIST1	T_uncertain	provisional: no gene universe available	39586165#0			
+UBE2O	1	single_symbol_unverified	UBE2O	T_uncertain	provisional: no gene universe available	34976998#0			
+USP3 mRNA stability	1	single_symbol_unverified	USP3	T_visible	provisional: no gene universe available	35373703#1			
+WTAP transcription/protein	1	single_symbol_unverified	WTAP	T_visible	provisional: no gene universe available	37231451#0			
+YAP-220aa	1	single_symbol_unverified	YAP	T_uncertain	provisional: no gene universe available	38087322#0			
+YAP1 nuclear/transcriptional activity	1	single_symbol_unverified	YAP1	T_uncertain	provisional: no gene universe available	38087322#0			
+YTHDC1 activity	1	single_symbol_unverified	YTHDC1	T_uncertain	provisional: no gene universe available	37258572#0			
+YTHDC1 protein stability	1	single_symbol_unverified	YTHDC1	T_invisible	provisional: no gene universe available	37258572#0			
+YTHDC2 m6A-reader activity	1	single_symbol_unverified	YTHDC2	T_uncertain	provisional: no gene universe available	36566349#1			
+YTHDC2 mRNA stability/abundance	1	single_symbol_unverified	YTHDC2	T_visible	provisional: no gene universe available	36566349#1			
+ZDHHC7 transcription	1	single_symbol_unverified	ZDHHC7	T_visible	provisional: no gene universe available	38051779#0			
+ZDHHC7/DHHC7 palmitoyltransferase activity	1	multi_symbol_unverified	ZDHHC7	T_uncertain	multiple symbols ['ZDHHC7', 'DHHC7']; first taken provisionally	38051779#0			
+active TGFB1 signaling	1	single_symbol_unverified	TGFB1	T_uncertain	provisional: no gene universe available	36008860#0			
+circ-YAP transcription	1	noncoding_rna		T_visible	non-coding; confirm membership in the screen's perturbation list	38087322#0			
+circATP2B1 abundance	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	39586165#0			
+circ_0000566 biogenesis/abundance	1	noncoding_rna		T_visible	non-coding; confirm membership in the screen's perturbation list	37008055#0			
+glycolytic lactate	1	metabolite_or_process		T_uncertain		34145399#0			
+lactate	1	metabolite_or_process		T_uncertain		39890782#0			
+m6A-circ-YAP translation	1	noncoding_rna		T_invisible	non-coding; confirm membership in the screen's perturbation list	38087322#0			
+macrophage IL-1β	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36922898#0			
+macrophage NF-κB/STAT3	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36922898#0			
+macrophage ST2L/IL1RL1 receptor abundance-signaling state	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	38778059#0			
+mesothelial TLR2/TLR4/NF-kappaB activity	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36632455#0			
+miR-103a-3p activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34976998#0			
+miR-138-5p	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34145399#0			
+miR-204-3p stability/activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	39586165#0			
+miR-23b-3p activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35342355#0			
+miR-24-3p activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35342355#1			
+miR-2682 activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	37774794#3			
+miR-30a-5p activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35534983#0			
+miR-339-5p	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	34782005#0			
+miR-34a activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	37774794#0			
+miR-34b activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	37774794#1			
+miR-34c activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	37774794#2			
+miR-490-3p	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	33731207#0			
+miR-942-5p activity	1	noncoding_rna		T_uncertain	non-coding; confirm membership in the screen's perturbation list	35373703#0			
+neuronal CXCR2	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	42330341#0			
+neuronal MIF	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	42330341#0			
+pentose phosphate pathway activity	1	metabolite_or_process		T_uncertain		37596320#0			
+secreted CGA	1	single_symbol_unverified	CGA	T_uncertain	provisional: no gene universe available	35289315#0			
+tumor-cell BGN transcription	1	cell_type_prefixed		T_visible	intercellular/TME; cannot close inside one cell line	36632455#0			
+tumor-cell IL1R/NF-kappaB activity	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	41029721#0			
+tumor-cell SAA1 transcription/secretion	1	cell_type_prefixed		T_visible	intercellular/TME; cannot close inside one cell line	41029721#0			
+tumor-cell STAT3 activity	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36632455#0			
+tumor-cell-secreted BGN	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36632455#0			
+tumor-cell-secreted SAA1	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	41029721#0			
+tumour VCAM1/ERK/STAT3	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	42330341#0			
+tumour-cell FN1/FN-EDA	1	cell_type_prefixed		T_uncertain	intercellular/TME; cannot close inside one cell line	36922898#0			
+β-catenin/TCF4	1	single_symbol_unverified	TCF4	T_uncertain	provisional: no gene universe available	42338478#0			
