@@ -1,7 +1,7 @@
 {
   "phase": "3a-offline",
   "freeze_date": "2026-08-05",
-  "run_stamp": "2026-08-06T00:59:50",
+  "run_stamp": "2026-08-06T01:07:13",
   "governing_protocol": "10_ANALYSIS_PROTOCOL_PHASE3_PERTURBATION_RECIPROCITY_FROZEN_2026-08-05.md",
   "outcome_blind": true,
   "any_effect_value_read": false,

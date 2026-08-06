@@ -80,7 +80,8 @@ def sha256(path: Path) -> str:
 
 def write_tsv(path: Path, rows: list[dict], fields: list[str]) -> None:
     with open(path, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fields, delimiter="\t", extrasaction="ignore")
+        w = csv.DictWriter(f, fieldnames=fields, delimiter="\t",
+                           lineterminator="\n", extrasaction="ignore")
         w.writeheader()
         w.writerows(rows)
 
