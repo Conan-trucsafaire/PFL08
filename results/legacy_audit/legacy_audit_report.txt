@@ -1,0 +1,50 @@
+==============================================================================
+Legacy catalogue audit — Supplementary Tables S1/S2 of the v5 submission
+==============================================================================
+
+S1 entries: 192
+
+[1] DISTINCT MEMBER SETS: 185  (duplicate groups 7, redundant entries 7)
+    The headline count of 192 overstates distinct circuits by 7.
+      PFL_CRC_004 = PFL_WNT_001        ['CTNNB1', 'LGR6', 'TCF7L2']
+      PFL_CRC_007 = PFL_WNT_002        ['CTNNB1', 'SOX4', 'WNT2']
+      PFL_EPI_004 = PFL_STAT3_007      ['METTL3', 'STAT3', 'WTAP']
+      PFL_HIF_001 = PFL_HIF_005        ['HIF1A', 'KCNJ2']
+      PFL_IMM_008 = PFL_WNT_005        ['CTNNB1', 'ZEB1']
+      PFL_TGFB_008 = PFL_WNT_003       ['CTNNB1', 'TPH1']
+      PFL_TME_047 = PFL_WNT_006        ['NLK', 'S100A11']
+
+[2] SELECTION RULE (mean_coex > 0.3 AND mean_d > 0.5), flagged 17
+    flagged but violating the rule : none
+    meets the rule but not flagged : none
+    -> the rule was executed faithfully; the problem is post-selection
+       inference, not a rule violation.
+
+[3] INDEPENDENCE OF THE 17 CORE LOOPS
+    member slots 45, unique genes 34
+    genes appearing in more than one of the 17: [('YAP1', 6), ('MYC', 5), ('LDHA', 2), ('HIF1A', 2)]
+    member counts: [2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4]
+    -> the 17 are not 17 independent observations. Treating them as
+       independent units inflates any test over them.
+
+    whole catalogue member-count distribution: {2: 95, 3: 70, 4: 24, 5: 2, 6: 1}
+    two-gene entries: 95/192 (49%) — for these the
+    module score is the mean of two genes.
+
+[4] CPTAC PROTEIN LAYER, 17 candidates
+    mean protein d >= 0.5 :  7  ['PFL_EPI_013', 'PFL_MYC_016', 'PFL_EPI_014', 'PFL_MYC_014', 'PFL_HIF_011', 'PFL_MYC_010', 'PFL_MYC_019']
+    mean protein d <= 0   :  7  ['PFL_PI3K_001', 'PFL_YAP_004', 'PFL_YAP_001', 'PFL_RES_009', 'PFL_YAP_003', 'PFL_YAP_005', 'PFL_DUB_009']
+    unusable cell         :  1  [('PFL_MYC_007', '#NUM!')]
+    candidate x cohort cells with reversed sign: 24
+    evidence_layers (of 5): {'5': 2, '4': 4, '3': 1, '2': 3, '1': 7}
+    -> protein-layer replication is 7/17, not a uniform validation.
+
+[5] CROSSWALK — Phase 3a signed-edge circuits vs catalogue (gene-set overlap)
+    circuits with a resolved symbol : 67/70
+    any overlap with S1             : 52
+    Jaccard >= 0.5                  : 22
+    exact member-set match          : 7
+    best match is a dual-high-17    : 11
+    -> the perturbation line overlaps the CATALOGUE substantially but the
+       17 core candidates barely. Pre-registration P2 resolves accordingly.
+    NOTE: S1 has no PMID column, so this is gene-set overlap, not a PMID crosswalk.
